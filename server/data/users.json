@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": "mcketx2im8056x9b8ap",
+      "email": "chandrusurya623@gmail.com",
+      "password": "$2a$12$OCYCVREsGczEdNFD1zyX8OBOWUVrO0G.cwf2IpQme9g5MgcopJGJ2",
+      "name": "Chandru S",
+      "provider": "local",
+      "isVerified": false,
+      "createdAt": "2025-07-01T10:53:52.171Z",
+      "updatedAt": "2025-07-01T10:53:52.171Z"
+    },
+    {
+      "id": "mckg80r72wk77kyethw",
+      "email": "avatarkutty@gmail.com",
+      "password": "$2a$12$MsaNqUp0Ermv9Bl8MoX1vu3/S8YveXJSR9Hc4wEXr96tQLsaUUm9e",
+      "name": "Dru",
+      "provider": "local",
+      "isVerified": true,
+      "createdAt": "2025-07-01T11:32:50.032Z",
+      "updatedAt": "2025-07-01T11:32:50.167Z"
+    },
+    {
+      "id": "mckpt8smfrmm0gavxia",
+      "email": "leodas@gmail.com",
+      "password": "$2a$12$4bXK/CWomBuR8m0PFVHVzOrJszRCJBY.W8UfaYc45El3V59q4jLVu",
+      "name": "Dru bhai",
+      "provider": "local",
+      "isVerified": true,
+      "createdAt": "2025-07-01T16:01:16.498Z",
+      "updatedAt": "2025-07-01T16:01:16.522Z"
+    }
+  ],
+  "refreshTokens": [
+    {
+      "id": "mckpt9jgk6l2mrz07x8",
+      "userId": "mckpt8smfrmm0gavxia",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtY2twdDhzbWZybW0wZ2F2eGlhIiwiaWF0IjoxNzUxMzg1Njc3LCJleHAiOjE3NTE5OTA0NzcsImF1ZCI6InNlY3VyZS1hdXRoLWNsaWVudCIsImlzcyI6InNlY3VyZS1hdXRoLWFwcCJ9.S8WJJAleJdjB8HXlaWFo3VItracyRmS2mPqkjFeLH_c",
+      "createdAt": "2025-07-01T16:01:17.452Z",
+      "expiresAt": "2025-07-08T16:01:17.452Z"
+    },
+    {
+      "id": "mckpujie8nbdetdmh6i",
+      "userId": "mckpt8smfrmm0gavxia",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtY2twdDhzbWZybW0wZ2F2eGlhIiwiaWF0IjoxNzUxMzg1NzM3LCJleHAiOjE3NTE5OTA1MzcsImF1ZCI6InNlY3VyZS1hdXRoLWNsaWVudCIsImlzcyI6InNlY3VyZS1hdXRoLWFwcCJ9.8mjeAfgn4lfGLBUfqyrA8MfRaqKsAlneLDkfTqxXNu8",
+      "createdAt": "2025-07-01T16:02:17.030Z",
+      "expiresAt": "2025-07-08T16:02:17.030Z"
+    },
+    {
+      "id": "mckqr18nfcyrgknb8bd",
+      "userId": "mckpt8smfrmm0gavxia",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtY2twdDhzbWZybW0wZ2F2eGlhIiwiaWF0IjoxNzUxMzg3MjUyLCJleHAiOjE3NTE5OTIwNTIsImF1ZCI6InNlY3VyZS1hdXRoLWNsaWVudCIsImlzcyI6InNlY3VyZS1hdXRoLWFwcCJ9.Az54vruMTpiUNzV3H2B7eqBIV1bbdBLXPPjX9Io92lI",
+      "createdAt": "2025-07-01T16:27:32.999Z",
+      "expiresAt": "2025-07-08T16:27:32.999Z"
+    }
+  ]
+}
